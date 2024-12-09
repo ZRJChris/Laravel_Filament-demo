@@ -19,6 +19,7 @@ This Laravel project is designed to test and explore features of FilamentPHP.
 git clone https://github.com/ZRJChris/Laravel_Filament-demo.git
 cd Laravel_Filament-demo/
 composer install && npm install
+cp .env.example .env
 sail up -d
 ```
 
